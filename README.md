@@ -1,4 +1,5 @@
-![maldoam GitHub stats](https://github-readme-stats.vercel.app/api?username=maldoam&show_icons=true&theme=dracula)  
+![maldoam GitHub stats](https://github-readme-stats.vercel.app/api?username=maldoam&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldoam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @maldoam
 - 👀 I’m interested in ...
